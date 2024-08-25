@@ -1,0 +1,70 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Johnson",
+            "subject": "Chemistry",
+            "stars": 5,
+            "review": "Dr. Johnson's lectures are engaging and well-structured. Her enthusiasm for chemistry is infectious, and she provides a clear understanding of complex topics. The practical experiments she incorporates make learning enjoyable and insightful."
+        },
+        {
+            "professor": "Prof. Michael Lee",
+            "subject": "Mathematics",
+            "stars": 4,
+            "review": "Prof. Lee explains complex concepts clearly, but the pace of the lectures can be quite fast. He offers helpful problem-solving sessions and is always available for extra help. His use of real-world examples makes abstract theories more relatable."
+        },
+        {
+            "professor": "Dr. Sarah Patel",
+            "subject": "Biology",
+            "stars": 3,
+            "review": "Dr. Patel's lectures are informative but somewhat monotonous. While she has a deep understanding of biology, her teaching style lacks interactive elements that could engage students more. Her office hours are valuable for one-on-one support."
+        },
+        {
+            "professor": "Dr. David Kim",
+            "subject": "Physics",
+            "stars": 5,
+            "review": "Dr. Kim is exceptional at making difficult physics concepts understandable and interesting. His lectures are well-organized, and he incorporates a variety of teaching methods to cater to different learning styles. His passion for the subject shines through in every class."
+        },
+        {
+            "professor": "Prof. Lisa Wong",
+            "subject": "History",
+            "stars": 4,
+            "review": "Prof. Wong has a deep knowledge of history and provides useful context in her lectures. She often draws connections between historical events and current affairs, which makes her classes more relevant. Her assignments are thought-provoking and encourage critical thinking."
+        },
+        {
+            "professor": "Dr. John Smith",
+            "subject": "Computer Science",
+            "stars": 4,
+            "review": "Dr. Smith's classes are well-structured, and he makes complex programming concepts accessible. His projects are challenging but rewarding. However, he could improve by providing more feedback on assignments to help students understand their mistakes."
+        },
+        {
+            "professor": "Prof. Alice Brown",
+            "subject": "Psychology",
+            "stars": 5,
+            "review": "Prof. Brown is an outstanding teacher who brings a wealth of knowledge and real-world experience to her psychology classes. Her lectures are interactive and include various multimedia elements. She fosters a supportive learning environment and is always open to discussing ideas."
+        },
+        {
+            "professor": "Dr. Robert Green",
+            "subject": "Engineering",
+            "stars": 3,
+            "review": "Dr. Green's expertise in engineering is evident, but his teaching style could use improvement. His lectures are densely packed with information and can be overwhelming. Incorporating more hands-on activities and clearer explanations could enhance the learning experience."
+        },
+        {
+            "professor": "Prof. Jessica Adams",
+            "subject": "Literature",
+            "stars": 4,
+            "review": "Prof. Adams is passionate about literature and offers insightful analyses of texts. Her classes are engaging, and she encourages students to express their interpretations. However, the reading load can be quite heavy, and balancing it with other coursework can be challenging."
+        },
+        {
+            "professor": "Dr. Michael Thompson",
+            "subject": "Economics",
+            "stars": 4,
+            "review": "Dr. Thompson provides a thorough understanding of economic theories and their applications. His lectures are clear, and he uses real-world examples to illustrate concepts. His feedback on assignments is detailed, though he could be more responsive to student questions outside of class."
+        },
+        {
+            "professor": "Prof. Karen White",
+            "subject": "Art History",
+            "stars": 5,
+            "review": "Prof. White's art history classes are incredibly enriching. She brings historical periods to life through engaging lectures and field trips. Her passion for art is evident, and she creates a stimulating environment for students to explore and discuss various art movements."
+        }
+    ]
+}
